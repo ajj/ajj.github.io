@@ -72,6 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://www.flickr.com/gp/andrewjjackson/6kq0rf"
 
 footer:
   links:
@@ -83,7 +86,10 @@ footer:
       url: "https://github.com/ajj"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/andrewjjackson"
+      url: "https://instagram.com/andrewjjackson"  
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://www.flickr.com/gp/andrewjjackson/6kq0rf"
 
 defaults:
   # _posts
